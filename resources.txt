@@ -1,0 +1,13 @@
+https://medium.com/@onkarmishra/using-langchain-for-question-answering-on-own-data-3af0a82789ed
+
+https://medium.com/@svikraman010101/querying-pdf-files-with-langchain-and-openai-b5ec496e28c0
+
+https://shweta-lodha.medium.com/query-your-pdf-and-get-answers-openai-langchain-python-cce3322679e0
+
+https://medium.com/@dheerajbesu/create-streamlit-as-desktop-app-54bb843974f3
+
+https://medium.com/@saumitrapanchal/streamlit-stlite-beyond-data-science-applications-23de64648883
+
+https://medium.com/@florenceify74/how-to-download-install-and-run-ubuntu-in-vmware-workstation-ce5f2d4d0438
+
+https://www.freecodecamp.org/news/how-to-create-a-react-app-with-a-node-backend-the-complete-guide/
